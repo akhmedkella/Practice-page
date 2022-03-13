@@ -1,0 +1,30 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(/images/IMG_0008.JPG);
+}
+.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.frames {
+  background-color: lightcoral;
+}
+.paint {
+  background-color: skyblu;
+}
+body {
+  color: snow;
+  background-image: url(/images/IMG_0004.JPG);
+}
